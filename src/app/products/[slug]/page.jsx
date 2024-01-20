@@ -4,7 +4,6 @@ import React from "react";
 
 const page = ({ params: { slug } }) => {
   const [book] = booksData.filter((item) => item.slug === slug);
-  console.log(book);
   return (
     <div className="container mx-auto my-8">
       <div className="flex flex-col md:flex-row">
