@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="bg-gray-800 p-4">
       <div className="container mx-auto flex justify-between items-center">
         <Link href="/">
-          <span className="text-white text-lg font-bold">Your E-Commerce</span>
+          <span className="text-white text-lg font-bold">Book Shop</span>
         </Link>
         <div className="space-x-4">
           <Link href="/products">
@@ -15,7 +15,6 @@ const Navbar = () => {
           <Link href="/cart">
             <span className="text-white">Cart</span>
           </Link>
-          {/* Add more links as needed */}
         </div>
       </div>
     </nav>
