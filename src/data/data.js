@@ -7,7 +7,7 @@ import booktkmjpg from "@/assets/booksilva.jpg"
 const booksData = [
     {
         id: "1",
-        slug: "aapke_avchetan_mann_ki_shakti",
+        slug: "aapke-avchetan-mann-ki-shakti",
         title: "Aapke Avchetan Mann Ki Shakti",
         author: "Joseph Murphy",
         genre: "Business Development & Entrepreneurship",
@@ -74,7 +74,7 @@ const booksData = [
     },
     {
         id: "2",
-        slug: "mann_ki_shaktiyon_ko_jagrut_karne_ki_taknik",
+        slug: "mann-ki-shaktiyon-ko-jagrut-karne-ki-taknik",
         title: "Mann ki Shaktiyon ko Jagrut karne ki Taknik",
         author: "José Silva",
         genre: "Business Development",
@@ -149,7 +149,7 @@ const booksData = [
     },
     {
         id: "3",
-        slug: "rich_dad_and_poor_dad",
+        slug: "rich-dad-and-poor-dad",
         title: "Rich Dad Poor Dad",
         description: `Rich Dad Poor Dad" is a personal finance and self-help book written by Robert T. Kiyosaki. First published in 1997, the book has since become a bestseller and is widely considered a classic in the genre. Kiyosaki uses the narrative of his own life experiences to convey key principles related to financial education and wealth-building. The book contrasts the financial philosophies and practices of two father figures in Kiyosaki's life – his biological father (referred to as "Poor Dad") and the father of his childhood best friend (referred to as "Rich Dad").`,
         keythemes: [
@@ -216,7 +216,7 @@ const booksData = [
     },
     {
         id: "4",
-        slug: "the_intelligent_investor",
+        slug: "the-intelligent-investor",
         title: "The Intelligent Investor",
         author: "Benjamin Graham",
         genre: "Business Development",
